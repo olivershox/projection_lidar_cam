@@ -1,0 +1,4 @@
+/media/lbl/新加卷/实习/DJI实习/projection/build/CMakeFiles/rebuild_cache.dir
+/media/lbl/新加卷/实习/DJI实习/projection/build/CMakeFiles/edit_cache.dir
+/media/lbl/新加卷/实习/DJI实习/projection/build/CMakeFiles/projection.dir
+/media/lbl/新加卷/实习/DJI实习/projection/build/CMakeFiles/Projection.dir

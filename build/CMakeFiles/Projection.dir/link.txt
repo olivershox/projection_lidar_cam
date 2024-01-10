@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/libProjection.a CMakeFiles/Projection.dir/src/projectOnImage.cpp.o
+/usr/bin/ranlib ../lib/libProjection.a
